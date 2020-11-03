@@ -23,7 +23,7 @@
           "type": "markdown",
           "state": {
             "file": "docs/_posts/2020-11-03-blog-zero.md",
-            "mode": "preview"
+            "mode": "source"
           }
         },
         "group": "6c89c4e7bba9e9da"
@@ -89,6 +89,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "docs/_posts/2020-11-03-blog-zero.md"
+    "docs/_posts/2020-11-03-blog-zero.md",
+    "docs/about.md"
   ]
 }
