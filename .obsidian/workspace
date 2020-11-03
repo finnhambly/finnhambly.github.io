@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "901461527792b6d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a559b0920663764",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/_posts/2020-11-03-blog-zero.md",
+            "mode": "source"
+          }
+        },
+        "group": "6c89c4e7bba9e9da"
+      },
+      {
+        "id": "0b5952a2b98971e1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/_posts/2020-11-03-blog-zero.md",
+            "mode": "preview"
+          }
+        },
+        "group": "6c89c4e7bba9e9da"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77370d42d82f50f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8186735971cacd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59b2f1c734d664db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "52fc0290ef8c7f46",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6ee61c759bb0fde5",
+    "type": "split",
+    "children": [
+      {
+        "id": "05d751eb5eb70308",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f50a43c41b588e96",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/_posts/2020-11-03-blog-zero.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "docs/_posts/2020-11-03-blog-zero.md"
+  ]
+}
