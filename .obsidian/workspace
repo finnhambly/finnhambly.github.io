@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/about.md",
+            "file": "docs/_posts/2020-11-03-blog-zero.md",
             "mode": "source"
           }
         },
@@ -22,8 +22,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/about.md",
-            "mode": "preview"
+            "file": "docs/_posts/2020-11-03-blog-zero.md",
+            "mode": "source"
           }
         },
         "group": "6c89c4e7bba9e9da"
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/about.md"
+                "file": "docs/_posts/2020-11-03-blog-zero.md"
               }
             }
           }
@@ -89,7 +89,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "docs/about.md",
-    "docs/_posts/2020-11-03-blog-zero.md"
+    "docs/_posts/2020-11-03-blog-zero.md",
+    "docs/about.md"
   ]
 }
