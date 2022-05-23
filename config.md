@@ -18,7 +18,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "Finn Hambly"
 website_descr = "probabilistic modelling and predictive theories"
-website_url   = "finnhambly.com"
+website_url   = "https://finnhambly.com"
 rss_full_content = true
 +++
 
