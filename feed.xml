@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <channel>
+    <title>
+      <![CDATA[  Finn Hambly  ]]>
+    </title>
+    <link> https://finnhambly.com </link>
+    <description>
+      <![CDATA[  probabilistic modelling and predictive theories  ]]>
+    </description>
+    <atom:link
+      href="https://finnhambly.com/feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+
+<item>
+  <title>
+    <![CDATA[  The servers are on the literal moon &#40;2072&#41;  ]]>
+  </title>
+  <link> https://finnhambly.com/blog/2072/index.html </link>
+  <guid> https://finnhambly.com/blog/2072/index.html </guid>
+  <description>
+    <![CDATA[  You were right about mind uploading being a big deal, though that was obvious in 2022, right?  ]]>
+  </description>  
+    
+  <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Finn Hambly</atom:name>
+  </atom:author>
+        
+</item>
+</channel></rss>
