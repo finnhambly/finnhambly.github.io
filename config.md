@@ -19,6 +19,7 @@ generate_rss = true
 website_title = "Finn Hambly"
 website_descr = "probabilistic modelling and predictive theories"
 website_url   = "finnhambly.com"
+rss_full_content = true
 +++
 
 <!--
