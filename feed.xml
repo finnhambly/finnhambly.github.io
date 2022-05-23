@@ -11,12 +11,12 @@
     <title>
       <![CDATA[  Finn Hambly  ]]>
     </title>
-    <link> finnhambly.com </link>
+    <link> https://finnhambly.com </link>
     <description>
       <![CDATA[  probabilistic modelling and predictive theories  ]]>
     </description>
     <atom:link
-      href="finnhambly.com/feed.xml"
+      href="https://finnhambly.com/feed.xml"
       rel="self"
       type="application/rss+xml" />
 
@@ -25,8 +25,8 @@
   <title>
     <![CDATA[  The servers are on the literal moon &#40;2072&#41;  ]]>
   </title>
-  <link> finnhambly.com/blog/2072/index.html </link>
-  <guid> finnhambly.com/blog/2072/index.html </guid>
+  <link> https://finnhambly.com/blog/2072/index.html </link>
+  <guid> https://finnhambly.com/blog/2072/index.html </guid>
   <description>
     <![CDATA[  You were right about mind uploading being a big deal, though that was obvious in 2022, right?  ]]>
   </description>  

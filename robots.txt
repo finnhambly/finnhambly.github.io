@@ -1,4 +1,4 @@
-Sitemap: finnhambly.com/sitemap.xml
+Sitemap: https://finnhambly.com/sitemap.xml
 
 User-agent: *
 Disallow:
