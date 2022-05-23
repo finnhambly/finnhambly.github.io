@@ -1,6 +1,9 @@
 <!--
 Add here global page variables to use throughout your website.
 -->
+
+
+
 +++
 author = "Finn Hambly"
 mintoclevel = 2
@@ -15,7 +18,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "Finn Hambly"
 website_descr = "probabilistic modelling and predictive theories"
-website_url   = "https://finnhambly.com"
+website_url   = "finnhambly.com"
 +++
 
 <!--
