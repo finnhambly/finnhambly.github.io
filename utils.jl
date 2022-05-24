@@ -19,7 +19,7 @@ end
     {{blogposts}}
 
 Plug in the list of blog posts contained in the `/blog` folder.
-Souce: <https://github.com/abhishalya/abhishalya.github.io>.
+Source: https://github.com/abhishalya/abhishalya.github.io
 """
 @delay function hfun_blogposts()
     today = Dates.today()
