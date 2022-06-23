@@ -1,3 +1,3 @@
-Some photos from 2022 :)
+# Some photos from this year 🙂
 
 {{all_images}}
