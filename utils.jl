@@ -65,3 +65,13 @@ Source: https://github.com/abhishalya/abhishalya.github.io
     write(io, "</p>")
     return String(take!(io))
 end
+
+function hfun_all_images()
+    # some code here which defines "generated_html"
+    # as a String containing valid HTML
+    generated_html = ""
+    for image in readdir("images")
+        generated_html *= string("<img src=\"",string("/images/",image),"\">")
+    end
+    return generated_html
+end
