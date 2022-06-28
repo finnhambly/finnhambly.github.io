@@ -14,7 +14,7 @@ rss = "I think our capacity to act is a result of our social environments and, r
 
 Most blog posts I’ve read about being more agentic encourage being very explicitly ambitious, but I often find them sort of… sad? This might be because I’m personally repelled by ‘grind culture’ mindsets, and find proclamations that start with “you should” annoying. 
 
-Personally, I think of agency as having ideas and doing them, often without registering the fact that you’re trying to “do a thing”. There are a lot of prerequisites to this, and I think a crucial one is being in an environment that gives you energy and confidence, rather than listening to bloggers telling you to grit your teeth and do socially-uncomfortable things.
+Personally, I think of agency as "having ideas and doing them", often without registering the fact that you’re trying to “do a thing”. There are a lot of prerequisites to this, and I think a crucial one is being in an environment that gives you energy and confidence, rather than listening to bloggers telling you to grit your teeth and do socially-uncomfortable things.
 
 > Why are you telling me what to do? You don’t know me.
 @@attribution
@@ -35,12 +35,12 @@ Below, I provide some examples of blogposts that I think nudge readers to be a l
 ## Cultural approaches to increasing individuals’ agency
 **Illustrative example 1**: labelling the automatic dismissal of ideas as part of a [cheems mindset](https://normielisation.substack.com/p/cheems-mindset) makes it very uncool and, consequently, pushes everyone who reads it to be a bit more receptive to new ideas.
 
-![](/assets/antilongtermist_cheems.png)
+![](/assets/agency-cheems.png)
 @@caption
 To give some visual excitement to this blogpost, I generated this meme with GPT-3.
 @@
 
-**Representative case number two**: [Hero Licensing](https://www.lesswrong.com/posts/dhj9dhiwhq3DX6W8z/hero-licensing) highlights how people can find ambitiousness to be outrageous and require it to be well-justified, even though this is often a waste of time. As well as dunking on the cheems mindset, I think Eliezer Yudkowsky is trying to motivate ‘uncredentialed nobodies’ to ignore the haters and save the world. (If you want to motivate me, tell me how others are dumb for not believing in me, rather than telling me to try harder.) Related: [You Don't Need To Justify Everything](https://forum.effectivealtruism.org/posts/HX9ZDGwwSxAab46N9/you-don-t-need-to-justify-everything)
+**Representative case number two**: [Hero Licensing](https://www.lesswrong.com/posts/dhj9dhiwhq3DX6W8z/hero-licensing) highlights how people can find ambitiousness to be outrageous and require it to be well-justified, even though this is often a waste of time. As well as dunking on the cheems mindset, I think Eliezer Yudkowsky is trying to motivate ‘uncredentialed nobodies’ to ignore the haters and save the world. (If you want to motivate me, tell me how others are wrong for not believing in me, rather than telling me to try harder.) Related: [You Don't Need To Justify Everything](https://forum.effectivealtruism.org/posts/HX9ZDGwwSxAab46N9/you-don-t-need-to-justify-everything)
 
 > Well, I don’t think you can save the world, of course!  (laughs)  This isn’t a science fiction book.
 @@attribution
@@ -141,7 +141,7 @@ In practice, it can be quite hard to give up our fears and work directly towards
     Weirdly, I have incredibly fond memories of the months before those exams; I knew every bit of the curriculum, I did a whole bunch of practice exam papers, and I understood every mistake I ever made. Having a metric to maximise (i.e., number of correct answers) and getting quick feedback gave me weeks worth of flow. And I smashed it. I got something like 97% across my 5 AS levels. But, while that was fun and I learnt a lot, I still got rejected from Cambridge, so you should really make sure your optimisation strategy is properly aligned! If you’re wanting to feel agentic, it’s easy to deceive yourself with the metrics that are most in your control.
 @@
 
-So maybe we should give up on the idea of becoming überconfident and self-reliant, and simply hack our environments instead. It’s certainly rational to care about other people’s perceptions of us and our goals — especially since our ideas could be truly awful. But we have control over who we discuss ideas with and seek feedback from, and I think it’s important we’re not doing that with cheems-y people. 
+So maybe we should give up on the idea of becoming überconfident and self-reliant, and simply hack our environments instead. It’s certainly rational to care about other people’s perceptions of us and our goals — especially since our ideas could be truly awful. But we have control over who we discuss ideas with and seek feedback from, and some people are considerably better placed to be helpful. 
 
 ## Some personal reflections
 Clearly there are specifics to who we seek feedback from — just finding people and talking at them with our ideas can backfire. I’ve had a bunch of weird ideas, but the things that randomly-selected individuals quickly understand and get excited about might not be correlated with what’s actually sensible for us. For instance, a few years ago, I had a phase of thinking up lots of ideas for scaling up seaweed farming to single-digit percentages of the Pacific, and got lots of positive excitement from friends when I spoke about it (it’s pretty easy to understand how that could draw lots of carbon out the atmosphere). Since it was fun to talk about, I continued to think about how to make it work, even though I would’ve absolutely hated being a seaweed farmer. 
@@ -156,5 +156,5 @@ However, if the experiences of The Inklings and the French Impressionists are an
 
 \\
 @@acknowledgements
-    Many thanks to Fin Moorhouse for providing helpful feedback on a draft of this post :)
+    Many thanks to Fin Moorhouse and Morgan Simpson for providing helpful feedback on a draft of this post :)
 @@
