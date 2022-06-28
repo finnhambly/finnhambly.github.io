@@ -7,7 +7,7 @@
 .franklin-content { font-size: 1.4rem; }
 
 #main {
-  float: left;
+  float: none;
 }
 
 #menu ul {

@@ -290,8 +290,9 @@ img { max-width: 100%; }
 .marginnote {
   float: right;
   clear: right;
-  margin-right: -50%;
+  margin-right: -45%;
   width: 40%;
+  padding-right: 10px;
   margin-top: 0;
   margin-bottom: 0;
   font-size: 1.1rem;
