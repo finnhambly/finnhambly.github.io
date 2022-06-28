@@ -290,8 +290,8 @@ img { max-width: 100%; }
 .marginnote {
   float: right;
   clear: right;
-  margin-right: -60%;
-  width: 50%;
+  margin-right: -50%;
+  width: 40%;
   margin-top: 0;
   margin-bottom: 0;
   font-size: 1.1rem;
@@ -399,9 +399,9 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
 
 @media (max-width: 760px) {
   body {
-    width: 90%;
-    padding-left: 3%;
-    padding-right: 3%;
+    width: 95%;
+    padding-left: auto;
+    padding-right: auto;
   }
 
   hr,
