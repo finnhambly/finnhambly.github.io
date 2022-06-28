@@ -51,8 +51,8 @@
   transform: scaleX(1);
 }
 
-.franklin-content { padding-left: 10%; }
-.franklin-content { padding-right: 5%; }
+.franklin-content { padding-left: 3%; }
+.franklin-content { padding-right: 3%; }
 
 @media (max-width: 940px) {
   /* narrow display: menu is at the top */

@@ -101,7 +101,7 @@
 html { font-size: 11px; }
 
 body {
-  width: 100%;
+  width: 90%;
   margin-left: auto;
   margin-right: auto;
 
@@ -224,7 +224,7 @@ section > table { width: 55%; }
 section > ol,
 section > ul {
   width: 50%;
-  -webkit-padding-start: 5%;
+  -webkit-padding-start: 1%;
 }
 
 li:not(:first-child) { margin-top: 0.25rem; }
@@ -399,9 +399,9 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
 
 @media (max-width: 760px) {
   body {
-    width: 84%;
-    padding-left: 8%;
-    padding-right: 8%;
+    width: 90%;
+    padding-left: 3%;
+    padding-right: 3%;
   }
 
   hr,
