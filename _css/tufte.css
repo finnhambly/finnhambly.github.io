@@ -98,10 +98,10 @@
 }
 
 /* Tufte CSS styles */
-html { font-size: 15px; }
+html { font-size: 11px; }
 
 body {
-  width: 87.5%;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
 
