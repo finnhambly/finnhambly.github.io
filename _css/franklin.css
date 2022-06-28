@@ -38,7 +38,7 @@
   --block-background: hsl(0, 0%, 94%);
   --output-background: hsl(0, 0%, 98%);
   --small: 11px;
-  --normal: 14px;
+  --normal: 13px;
   --text-color: hsv(0, 0%, 20%);
 }
 
@@ -162,7 +162,7 @@ h6 {
 .franklin-content h2 {
   padding-bottom: 0.3em;
   border-bottom: 1px solid lightgrey;
-  margin-top: 2em;
+  margin-top: 1em;
   margin-bottom: 1em;
 }
 
