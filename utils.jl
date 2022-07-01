@@ -117,11 +117,13 @@ get_pubdate(url) = Date(@get(pagevar(url, :pubdate), today_s()), DATE_FORMAT)
 get_pubdate()    = Date(@get(locvar(:pubdate), today_s()), DATE_FORMAT)
 today_s() = Dates.format(today(), DATE_FORMAT)
 
+# TODO replace hardcoded strings with SITE_ variables
+
 function hfun_meta()
     url            = joinpath(SITE_URL, strip(get_url(locvar(:fd_rpath)), '/'))
-    title          = @get(locvar(:title), SITE_TITLE)
-    desc           = @get(locvar(:rss), SITE_DESC)
-    img            = @get(locvar(:image), joinpath(SITE_URL, "/images/me.jpeg"))
+    title          = @get(locvar(:title), "Finn Hambly")
+    desc           = @get(locvar(:rss), "Finn's personal blog")
+    img            = @get(locvar(:image), "https://finnhambly.com/images/me.jpeg")
     type           = is_blogpost() ? "article" : "website"
     published_time = get_pubdate()
 
