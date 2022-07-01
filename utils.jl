@@ -102,7 +102,6 @@ const SITE_URL   = globvar(:website_url)
 const TWITTER_ID = "@finnhambly"
 const DATE_FORMAT = dateformat"yyyy-mm-dd"
 
-
 macro get(ex, default)
     @assert isexpr(ex, :call)
     method = first(ex.args)
@@ -122,7 +121,7 @@ function hfun_meta()
     url            = joinpath(SITE_URL, strip(get_url(locvar(:fd_rpath)), '/'))
     title          = @get(locvar(:title), SITE_TITLE)
     desc           = @get(locvar(:rss), SITE_DESC)
-    img            = @get(locvar(:image), joinpath(SITE_URL, "images/me.jpeg"))
+    img            = @get(locvar(:image), joinpath(SITE_URL, "/images/me.jpeg"))
     type           = is_blogpost() ? "article" : "website"
     published_time = get_pubdate()
 
@@ -133,7 +132,8 @@ function hfun_meta()
     <meta property="og:type" content="$(type)" />
     <meta property="og:description" content="$(desc)" />
     <meta property="og:published_time" content="$(published_time)" />
-    <meta name="twitter:card" content="$(desc)" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:description" content="$(desc)" />
     <meta name="twitter:site" content="$(TWITTER_ID)" />
     <meta name="twitter:creator" content="$(TWITTER_ID)" />
     """
