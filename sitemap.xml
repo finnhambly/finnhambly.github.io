@@ -20,6 +20,12 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>https://finnhambly.com/subscribe/index.html</loc>
+    <lastmod>2022-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>https://finnhambly.com/blog/agency/index.html</loc>
     <lastmod>2022-07-01</lastmod>
     <changefreq>monthly</changefreq>
