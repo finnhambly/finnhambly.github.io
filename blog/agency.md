@@ -2,6 +2,7 @@
 title = "Validation as a bottleneck for agency"
 published = "2022-06-28"
 rss = "I think our capacity to act is a result of our social environments and, rather than rely on pure self-encouragement, we ought to focus on fostering supportive networks."
+image = "/assets/monet-sunrise.jpg"
 +++
 @def rss_pubdate = Date(2022, 06, 28)
 
