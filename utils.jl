@@ -1,3 +1,6 @@
+using Base.Meta: isexpr
+using Dates
+
 function hfun_bar(vname)
   val = Meta.parse(vname[1])
   return round(sqrt(val), digits=2)
@@ -74,4 +77,64 @@ function hfun_all_images()
         generated_html *= string("<img src=\"",string("/images/",image),"\">")
     end
     return generated_html
+end
+
+macro get(ex)
+    @assert isexpr(ex, :call)
+    method = first(ex.args)
+    varname = last(ex.args)
+    return :(let
+        var = $(esc(ex))
+        @assert !isnothing(var) string("$($(method)) `$($(varname))` isn't defined: ",
+                                       $(method), '(', join(repr.([$(map(esc, ex.args[2:end])...)]), ", "), ')', # call args
+                                       )
+        var
+    end)
+end
+
+# Meta stuff from here on down
+# taken directly from https://github.com/aviatesk/aviatesk.github.io/blob/68cea5c5f5ffaa55a2c247d50b6cb2702f993b1d/utils.jl
+# (thanks!)
+
+const SITE_TITLE = globvar(:website_title)
+const SITE_DESC  = globvar(:website_descr)
+const SITE_URL   = globvar(:website_url)
+const TWITTER_ID = "@finnhambly"
+const DATE_FORMAT = dateformat"yyyy-mm-dd"
+
+
+macro get(ex, default)
+    @assert isexpr(ex, :call)
+    method = first(ex.args)
+    varname = last(ex.args)
+    return :(let
+        var = $(esc(ex))
+        isnothing(var) ? $(esc(default)) : var
+    end)
+end
+
+is_blogpost(path = locvar(:fd_rpath)) = "blog" in splitpath(path)
+get_pubdate(url) = Date(@get(pagevar(url, :pubdate), today_s()), DATE_FORMAT)
+get_pubdate()    = Date(@get(locvar(:pubdate), today_s()), DATE_FORMAT)
+today_s() = Dates.format(today(), DATE_FORMAT)
+
+function hfun_meta()
+    url            = joinpath(SITE_URL, strip(get_url(locvar(:fd_rpath)), '/'))
+    title          = @get(locvar(:title), SITE_TITLE)
+    desc           = @get(locvar(:rss), SITE_DESC)
+    img            = @get(locvar(:image), joinpath(SITE_URL, "images/me.jpeg"))
+    type           = is_blogpost() ? "article" : "website"
+    published_time = get_pubdate()
+
+    return """
+    <meta property="og:url" content="$(url)" />
+    <meta property="og:title" content="$(title)" />
+    <meta property="og:image" content="$(img)" />
+    <meta property="og:type" content="$(type)" />
+    <meta property="og:description" content="$(desc)" />
+    <meta property="og:published_time" content="$(published_time)" />
+    <meta name="twitter:card" content="$(desc)" />
+    <meta name="twitter:site" content="$(TWITTER_ID)" />
+    <meta name="twitter:creator" content="$(TWITTER_ID)" />
+    """
 end
