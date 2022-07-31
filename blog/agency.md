@@ -157,5 +157,5 @@ However, if the experiences of The Inklings and the French Impressionists are an
 
 \\
 @@acknowledgements
-    Many thanks to Fin Moorhouse and Morgan Simpson for providing helpful feedback on a draft of this post :)
+    Many thanks to Fin Moorhouse and Morgan Simpson for providing helpful feedback on a draft of this post :) \\ I'd be very grateful to receive any comments you have on this post! You can submit feedback via [this Google Form](https://forms.gle/cwfhE6GqZrmP9nJH7).
 @@
