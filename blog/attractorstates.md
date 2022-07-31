@@ -1,10 +1,10 @@
 +++
 title = "A minefield of attractor states"
-published = "2022-07-30"
+published = "2022-07-31"
 rss = "This century is important because we can knowingly improve the long-run future."
-image = "https://finnhambly.com/assets/attractorstate1.png"
+image = "https://finnhambly.com/assets/attractorstate.png"
 +++
-@def rss_pubdate = Date(2022, 07, 30)
+@def rss_pubdate = Date(2022, 07, 31)
 
 # A minefield of attractor states
 
