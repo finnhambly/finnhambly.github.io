@@ -110,7 +110,7 @@ In The Precipice, Toby Ord uses the term 'existential catastrophe' to describe h
 
 So if we succeed at avoiding extinction, things could still go horribly wrong. Karnofsky and Ord articulate how and why unrecoverable dystopias may arise, but the number of paths to such an attractor state seem more numerous than you'd initially guess.
 
-For example, in order to avoid extinction scenarios, humanity may choose to install some stable, global, safety-enhancing regime, as described by Nick Bostrom in [the vulnerable world hypothesis](https://nickbostrom.com/papers/vulnerable.pdf). This flavour of attractor state doesn't give me much hope, sadly. For something as totalizing and irreversible as locking in a world government, I would want infeasible levels of certainty about its value.
+For example, in order to avoid extinction scenarios, humanity may choose to install some stable, global, safety-enhancing regime, as described by Nick Bostrom in [the vulnerable world hypothesis](https://nickbostrom.com/papers/vulnerable.pdf). This flavour of attractor state doesn't give me much hope, sadly. For something as totalizing and irreversible as locking in a world government, I would want infeasible levels of certainty about how good it will be.
 
 But, within this minefield of attractor states, not all of them must be entered into suddenly. Greaves and Macaskill again:
 
