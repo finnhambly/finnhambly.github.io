@@ -6,15 +6,17 @@
   font-style: italic;
 }
 
-.im-50 img {
+.franklin-content .im-50 {text-align: center;}
+.franklin-content .im-50 img {
     padding: 0;
     width: 50%;
-}
+ }
 
-.im-75 img {
+.franklin-content .im-75 {text-align: center;}
+.franklin-content .im-75 img {
     padding: 0;
     width: 75%;
-}
+ }
 
 .image {text-align: center;}
 .image img {
