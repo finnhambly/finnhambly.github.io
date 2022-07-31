@@ -15,7 +15,7 @@ In this post, I articulate my version of Holden Karnofsky's thesis that we could
 ## What counts as important?
 In the series, Karnofksy discusses technologies that are on our horizon, how they will transform humanity, and how unreasonable it is that almost nobody seems to care. Living through a technological revolution is not, however, unprecedented. Wikipedia has a [nice list of intellectual, philosophical, and technological revolutions](https://en.wikipedia.org/wiki/Technological_revolution#List_of_intellectual,_philosophical_and_technological_revolutions_(sectoral_or_universal)) which includes the Upper Neolithic Revolution, the First Industrial Revolution, and this figure demonstrating how technological progress means we can shoot our butter and eat it too:
 
-@@im-50
+@@img-small
     ![](/assets/ppfrontier.png)
 @@
 
@@ -75,12 +75,12 @@ In other words, this transition is different because it won't just induce change
 
 An attractor state is a condition where, once you enter it, you cannot escape — like a black hole. As Greaves and MacAskill [put it](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism-2/): "The non-existence of humanity is a persistent state par excellence. To state the obvious: the chances of humanity re-evolving, if we go extinct, are miniscule".
 
-@@im-75
+@@img-small
 ![](/assets/attractorstate.png)
 @@
 
 @@caption
-    I prompted [Midjourney](https://www.midjourney.com/) with the words 'attractor state' and received some lovely art.
+    I prompted [Midjourney](https://www.midjourney.com/) with the words 'attractor state' and received [some lovely art](/assets/attractorstate.png).
 @@
 
 
