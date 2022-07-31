@@ -65,7 +65,7 @@ You could imagine a (particularly visionary) person saying that about the indust
 But maybe, if the technologies were more transformative, and the transition more discontinuous, the choices made by users of the first printing presses would have taken away any chance for human civilisation to deviate from its subsequent trajectory. Karnofsky claims that this may be the case now:
 > During the century we’re in right now, we will develop technologies that cause us to transition to a state in which humans as we know them are no longer the main force in world events. This is our last chance to shape how that transition happens.
 
-In other words, this transition is different because it won't just induce change, but may eternally restrict humanity's capacity for change. This is a strong claim but, if the future holds a large number of digital people, it is hard to dispute [Karnofsky's reasoning](https://www.cold-takes.com/how-digital-people-could-change-the-world/). Just a couple of transformative technologies (artificial intelligence and digital consciousness) could lead to human extinction or a permanent, galaxy-wide, dystopian regime — both examples of 'attractor states'. 
+In other words, this transition is different because it won't just induce change, but may eternally restrict humanity's capacity for it. This is a strong claim but, if the future holds a large number of digital people, it is hard to dispute [Karnofsky's reasoning](https://www.cold-takes.com/how-digital-people-could-change-the-world/). Just a couple of transformative technologies (artificial intelligence and digital consciousness) could lead to human extinction or a permanent, galaxy-wide, dystopian regime — both examples of 'attractor states'. 
 
 ### Why it looks different this time: a minefield of attractor states
 > The human race’s prospects of survival were considerably better when we were defenceless against tigers than they are today, when we have become defenceless against ourselves.”
@@ -108,7 +108,7 @@ All of these probabilities are far too high, and the severity of these risks muc
 #### Non-extinction scenarios
 In The Precipice, Toby Ord uses the term 'existential catastrophe' to describe humanity “getting locked into a bad set of futures". Among these bad futures, Ord includes an ‘unrecoverable dystopia’: “a world with civilization intact, but locked into a terrible form, with little or no value”. This would be deemed to be an ‘attractor state’ of significantly lower expected value than alternative possible futures, alongside human extinction.
 
-So if we succeed at avoiding extinction, things could still go horribly wrong. Karnofsky's and Ord's articulate how and why unrecoverable dystopias may arise, but the number of paths to such an attractor state seem more numerous than you'd initially guess.
+So if we succeed at avoiding extinction, things could still go horribly wrong. Karnofsky and Ord articulate how and why unrecoverable dystopias may arise, but the number of paths to such an attractor state seem more numerous than you'd initially guess.
 
 For example, in order to avoid extinction scenarios, humanity may choose to install some stable, global, safety-enhancing regime, as described by Nick Bostrom in [the vulnerable world hypothesis](https://nickbostrom.com/papers/vulnerable.pdf). This flavour of attractor state doesn't give me much hope, sadly. For something as totalizing and irreversible as locking in a world government, I would want infeasible levels of certainty about its value.
 
