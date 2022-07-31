@@ -1,6 +1,6 @@
 # About
 
-Hi, I'm Finn 👋 I'm currently working on eliciting and aggregating forecasters' *models* of AI progress, and making conditional forecasting scalable. 
+Hi, I'm Finn 👋
 
 This website is only a couple of months old at the moment, but topics I currently have blog-worthy notes on include:
 - mathematical concepts to help you balance inside and outside views when forecasting,
