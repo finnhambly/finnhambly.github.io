@@ -12,7 +12,7 @@ image = "https://finnhambly.com/assets/attractorstate.png"
 
 In this post, I articulate my version of Holden Karnofsky's thesis that we could be living in [the most important century](https://www.cold-takes.com/most-important-century/), with an emphasis on why this century's level of influence is distinct. If you've not read the series, and find the claims in this post to be absurd, then I highly recommend checking out (at least) the [summary](https://www.cold-takes.com/most-important-century/) and the post [All Possible Views About Humanity's Future Are Wild](https://www.cold-takes.com/all-possible-views-about-humanitys-future-are-wild/).
 
-## What counts as important?
+## What makes a particular era important?
 In the series, Karnofksy discusses technologies that are on our horizon, how they will transform humanity, and how unreasonable it is that almost nobody seems to care. Living through a technological revolution is not, however, unprecedented. Wikipedia has a [nice list of intellectual, philosophical, and technological revolutions](https://en.wikipedia.org/wiki/Technological_revolution#List_of_intellectual,_philosophical_and_technological_revolutions_(sectoral_or_universal)) which includes the Upper Neolithic Revolution, the First Industrial Revolution, and this figure demonstrating how technological progress means we can shoot our butter and eat it too:
 
 @@img-small
