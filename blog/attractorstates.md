@@ -116,19 +116,19 @@ But, within this minefield of attractor states, not all of them must be entered 
 
 > Only slightly more subtly [than extinction], the existence of humanity is also a persistent state: while we face significant risks of premature extinction … humanity’s expected persistence is vast.
 
-If humanity spreads across the galaxy — creating civilisations that are disparate and diverse — the chances of our long-run each millenium may well spring back to ~100%.
+If humanity spreads across the galaxy — creating civilisations that are disparate and diverse — the chances of our survival in a given millenium may well spring back to ~100%.
 
 ## Getting the transition right
 To me, it seems like we're in a position where we can make choices that are genuinely good for the long-run future; reducing the chance of a civilisational catastrophe, at a minimum, seems like an obviously good bet. Beyond that, there are many other attractor states we could increase the chances of — and doing so would be incredibly consequential.
 
-Because of this, I think the 21~~~<sup>st</sup>~~~ century will be unmatched in terms of **the variance in the expected impact of our actions**, because we can knowingly alter the probability distribution of humanity's future trajectories (within this incredibly large range):
+Because of this, I think the 21~~~<sup>st</sup>~~~ century will be unmatched in terms of **the variance in the expected impact of our actions**, because we can knowingly alter the probability distribution of humanity's future trajectories within this incredibly large range:
 
 ![](/assets/this-cant-go-on.png)
 @@caption
 From [This Can't Go On](https://www.cold-takes.com/this-cant-go-on).
 @@
 
-As we consider how the future should look, we should be wary of most lock-in scenarios. This is obvious when most of the visible attractor states look really bad, but I also think it's unwise to get locked into some paths even if they look good. It  may well be our last chance to define the future, but let's prioritise stewardship over legacy building. Our main task should be to *reduce* the significance of this century in the long run by increasing the number of good options for humanity (rather than collapsing them), but I'll explain my full reasoning for that in a future post. For now, I want to tell you about [why this thesis supports the simulation hypothesis](https://finnhambly.com/blog/alreadydigital) [ETA: 11pm BST], despite how silly that sounds.
+As we consider how the future should look, we should be wary of most lock-in scenarios. This is obvious when most of the visible attractor states look really bad, but I also think it's unwise to get locked into any path (even if they look good). It may well be our last chance to define the future, but let's prioritise stewardship over legacy building. I'll explain my full reasoning for that in a future post but, for now, I want to tell you about [why this thesis supports the simulation hypothesis](https://finnhambly.com/blog/alreadydigital) [ETA: 11pm BST], despite how silly that sounds.
 
 @@acknowledgements
     I'd be very grateful to receive any comments you have on this post! You can submit feedback via [this Google Form](https://forms.gle/Wvmgsu872R8E5L9R9).
