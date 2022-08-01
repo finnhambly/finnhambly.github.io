@@ -80,9 +80,9 @@ Because of that, the fact that this period of time looks particularly important,
 ### Anthropic reasoning all the way up
 If simulations successfully help you protect yourself, you could go even further and claim that simulations of *exactly this type of scenario* are going to be generated in abundance. If the simulations are recursive (i.e. there are simulations within the simulations), the most common decisions about what to simulate are going to be made by sims that manage to survive. So the sim civilisations with self-preserving tendencies are going to account for a much larger share of sims.
 
-The claim that we live in the most important century seems immediately dubious to many on its first mention. Statistically, with a business-as-usual outlook, it seems wrong. We also might be biased in our assessment: we may want it to be true, even if it's just for our own egos. If our century is important, then *we* can be important too.
+On first inspection, the claim that we live in the most important century seems immediately dubious to many. Statistically, it seems implausible. And we might be biased in our assessment: we may want it to be true, even if it's just for our own egos. If our century is important, then *we* can be important too.
 
-What's even more dubious is claiming not only that we live in the most important century, but that this century is why our universe exists in the first place! It's a whole new level of narcissism. To help you assess whether this is just motivated reasoning, I'll give you the numbers.
+What's even more dubious is claiming not only (1) that we live in the most important century, but (2) that this century is why our universe exists in the first place! It's a whole new level of narcissism. To help you assess whether this is just motivated reasoning, I'll give you some numbers.
 
 ## Filling out the formula for P(simulation | important)
 The probability that universes will want to simulate important things seems like it'll be high, but perhaps they'll mainly simulate things for entertainment or worthless market research. To craft a ratio of 'important':'not important' resource usage rates, let's look at how computing power is distributed.
@@ -123,9 +123,9 @@ I'm inclined to name this one the 'it-from-bit hypothesis'.
 
 ## Ramifications
 
-In [All Possible Views About Humanity's Future Are Wild](https://www.cold-takes.com/all-possible-views-about-humanitys-future-are-wild/), Karnofsky cites the simulation hypothesis as a reason to be sceptical that humanity never spreads throughout the galaxy. However, I don't think being in a simulation necessarily implies we should take his [call to vigilance](https://www.cold-takes.com/call-to-vigilance/) less seriously.
+In a bullet point in [All Possible Views About Humanity's Future Are Wild](https://www.cold-takes.com/all-possible-views-about-humanitys-future-are-wild/), Karnofsky mentions the simulation hypothesis as a reason to be sceptical about humanity ever spreading throughout the galaxy. However, I don't think being in a simulation necessarily implies we should take his [call to vigilance](https://www.cold-takes.com/call-to-vigilance/) less seriously.
 
-Granted, our simulators might terminate us as soon as we navigate through this time of perils. But even then, while our future might end up being small, the universe(s) above us would be even more vast than our own. If we survive these challenges in a way that sets humanity up for a wonderful, valuable future, our approach may be adopted by those observing us. May our best values propagate upwards!
+Granted, our simulators might terminate us as soon as we navigate through this time of perils. But even then, while our future might be smaller, the universe(s) above us would be even more vast than our own. If we survive these challenges in a way that sets humanity up for a wonderful, valuable future, our approach may be adopted by those observing us. May our best values propagate upwards!
 
 @@acknowledgements
     I'd be very grateful to receive any comments you have on this post! You can submit feedback via [this Google Form](https://forms.gle/HtimJH8Z8cE7UJSb8).
