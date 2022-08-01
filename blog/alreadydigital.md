@@ -9,15 +9,17 @@ image = "https://finnhambly.com/assets/simulationart.png"
 # What if we're already digital?
 *TL;DR: P(simulation|important) > P(simulation|¬important)*
 
-\tableofcontents
-
+*If we are living in a particularly important century, the probability that we're in a simulation increases.*
 
 *Disclaimer: This post is kind of weird. Sorry.*
+
+
+\tableofcontents
 
 ## Is this century important?
 This month, Effective Ideas are offering mini prizes for blogs that discuss Holden Karnofsky's series on [The Most Important Century](https://www.cold-takes.com/most-important-century/) — a set of blogposts that make a sober, clear-headed case that we live in an extraordinary era that will define the trajectory of human civilisation more than any other. Outlandish claims that have significant implications, such as those that Karnfosky discusses, are often dismissed simply because they are esoteric — but some ought to be taken seriously.
 
-If it's true, it does seem to be quite a coincidence that we happen to be alive in the most important century! I wanted to discuss the implications of observing something quite so coincidental, but I realised that there are nuances to my views on what qualifies as 'important'. It seems like every previous century has entirely determined the state of the future? To try and clarify my thoughts here, I wrote my version of the 'most important century' thesis in [my last blogpost](/blog/attractorstates), explaining why our choices might alter humanity's future trajectory in a way that no previous (or future) century could.
+If it's true, it does seem to be quite a coincidence that we happen to be alive in the most important century! I wanted to discuss the implications of observing something quite so coincidental, but I realised that there are nuances to my views on what qualifies as 'important'. To try and clarify my thoughts here, I wrote my version of the 'most important century' thesis in [my last blogpost](/blog/attractorstates), explaining why our choices might alter humanity's future trajectory in a way that no previous (or future) century could.
 
 One of the most significant factors that makes this century seem so uniquely important is the possibility of digital minds. If you need convincing on the feasibility of this or want to know why their creation would be so consequential, the best resource is Karnofsky's post [Digital People Would Be An Even Bigger Deal](https://www.cold-takes.com/how-digital-people-could-change-the-world/). The importance of this century doesn't just rest on digital people being created, but observing even the *possibility* of conscious digital people is notable. If it's possible to simulate conscious beings, then *we* could be simulated.
 
@@ -47,11 +49,11 @@ The simulation hypothesis is simply the hypothesis that we are living in a simul
 
 (sim = someone who is in a simulation)
 
->1. At least one in ten nonsim populations will each create a thousand sim populations.\\
->2. If at least one in ten nonsim populations will each create a thousand sim populations, then at least 99 percent of intelligent beings are sims.\\
->3. If at least 99 percent of intelligent beings are sims, we are probably sims.\\
+>- At least one in ten nonsim populations will each create a thousand sim populations.\\
+>- If at least one in ten nonsim populations will each create a thousand sim populations, then at least 99 percent of intelligent beings are sims.\\
+>- If at least 99 percent of intelligent beings are sims, we are probably sims.\\
 >---
->4. So: We are probably sims.
+>- So: We are probably sims.
 
 It's reasonable to suppose that there would be things that stop nonsim populations from creating sims. For instance, they might choose to not create sims that are conscious, perhaps out of moral concerns. We might want to reduce the probability of being simulated due to that, but it seems unlikely that *all* capable nonsims would avoid spinning up consciousnesses.
 
@@ -85,9 +87,9 @@ On first inspection, the claim that we live in the most important century seems 
 What's even more dubious is claiming not only (1) that we live in the most important century, but (2) that this century is why our universe exists in the first place! It's a whole new level of narcissism. To help you assess whether this is just motivated reasoning, I'll give you some numbers.
 
 ## Filling out the formula for P(simulation | important)
-The probability that universes will want to simulate important things seems like it'll be high, but perhaps they'll mainly simulate things for entertainment or worthless market research. To craft a ratio of 'important':'not important' resource usage rates, let's look at how computing power is distributed.
+The probability that universes will want to simulate important things seems like it'll be high, but perhaps they'll mainly simulate things for entertainment or worthless market research. 
 
-In 2015, [global computing capacity](https://aiimpacts.org/global-computing-capacity/) was probably between $2 \times 10^{20}$ and $1.5 \times 10^{21}$ FLOP/s. (Some of this was presumably used for relatively important things, but let's just ignore that.) Responsible for a portion of that computing capacity was [the TOP500](https://www.top500.org/lists/top500/2015/06/) supercomputers — which tend to be used for pretty important things — and their total performance came to $3.61 \times 10^{18}$ FLOP/s, or 0.24–1.8% of the world's computational power. So, for simplicity, let's use 1% as a low-ball guess for the percentage of simulations deserving the label 'important':
+To craft a ratio of 'important':'not important' resource usage rates, let's look at how compute usage is distributed. In 2015, [global computing capacity](https://aiimpacts.org/global-computing-capacity/) was probably between $2 \times 10^{20}$ and $1.5 \times 10^{21}$ FLOP/s. (Some of this was presumably used for relatively important things, but let's just ignore that.) Responsible for a portion of that computing capacity was [the TOP500](https://www.top500.org/lists/top500/2015/06/) supercomputers — which tend to be used for pretty important things — and their total performance came to $3.61 \times 10^{18}$ FLOP/s, or 0.24–1.8% of the world's computational power. So, for simplicity, let's use 1% as a low-ball guess for the percentage of simulations deserving the label 'important':
 
 \nonumber{$$ P(important|sim) = 0.01 $$}
 

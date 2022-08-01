@@ -12,6 +12,11 @@ image = "https://finnhambly.com/assets/attractorstate.png"
 
 In this post, I articulate my version of Holden Karnofsky's thesis that we could be living in [the most important century](https://www.cold-takes.com/most-important-century/), with an emphasis on why this century's level of influence is distinct. If you've not read the series, and find the claims in this post to be absurd, then I highly recommend checking out (at least) the [summary](https://www.cold-takes.com/most-important-century/) and the post [All Possible Views About Humanity's Future Are Wild](https://www.cold-takes.com/all-possible-views-about-humanitys-future-are-wild/).
 
+My argument is (roughly):
+- humanity falling into an 'attractor state' is very significant,
+- the more influence we have over that possibility, the more important this era is, and
+- this seems to be the case, moreso than ever.
+
 ## What makes a particular era important?
 In the series, Karnofksy discusses technologies that are on our horizon, how they will transform humanity, and how unreasonable it is that almost nobody seems to care. Living through a technological revolution is not, however, unprecedented. Wikipedia has a [nice list of intellectual, philosophical, and technological revolutions](https://en.wikipedia.org/wiki/Technological_revolution#List_of_intellectual,_philosophical_and_technological_revolutions_(sectoral_or_universal)) which includes the Upper Neolithic Revolution, the First Industrial Revolution, and this figure demonstrating how technological progress means we can shoot our butter and eat it too:
 
@@ -85,7 +90,7 @@ An attractor state is a condition where, once you enter it, you cannot escape �
 
 
 #### Extinction scenarios
-Take a look at these forecasts on how likely it is that various global catastrophes kill over 95% of the human population (and see [this notebook](https://www.metaculus.com/notebooks/8736/a-global-catastrophe-this-century/) for background information and the probabilities of each of these catastrophes occurring this century):
+Take a look at these forecasts on how likely it is that various global catastrophes kill over 95% of the human population (and see [this notebook](https://www.metaculus.com/notebooks/8736/a-global-catastrophe-this-century/) for background information):
 
 ~~~
 <iframe src="https://www.metaculus.com/questions/embed/2514/?theme=default" width="100%" height="260"></iframe>
@@ -97,13 +102,15 @@ Take a look at these forecasts on how likely it is that various global catastrop
 <iframe src="https://www.metaculus.com/questions/embed/7795/?theme=default" width="100%" height="260"></iframe>
 ~~~
 
+A 'catastrophe' in these instances refers to an event that kills 10% of the world's population. The Metaculus community places a 66% chance of this kind of event taking place this century, with AI (the most severe threat) being involved in ~25% of them.
+
 Being able to wipe ourselves out this easily is an incredibly new phenomenon; the concept of humanity being rendered extinct by their own discoveries became salient last century with the invention and proliferation of nuclear weapons. But, if a nuclear catastrophe kills 10% of the population (which is deemed to be roughly as likely as an AI, biological, or 'other' catastrophe doing the same), the likelihood that it kills 95% of the population is significantly lower:
 
 ~~~
 <iframe src="https://www.metaculus.com/questions/embed/1585/?theme=default" width="100%" height="260"></iframe>
 ~~~
 
-All of these probabilities are far too high, and the severity of these risks is much worse than most people account for. This scenario makes our century uniquely dangerous and, since there's still so much we can do to reduce them, uniquely important.
+All of these probabilities are unacceptably high, and the severity of these risks is much worse than most people account for. This scenario makes our century uniquely dangerous and, since there's still so much we can do to reduce them, uniquely important.
 
 #### Non-extinction scenarios
 In The Precipice, Toby Ord uses the term 'existential catastrophe' to describe humanity “getting locked into a bad set of futures". Among these bad futures, Ord includes an ‘unrecoverable dystopia’: “a world with civilization intact, but locked into a terrible form, with little or no value”. This would be deemed to be an ‘attractor state’ of significantly lower expected value than alternative possible futures, alongside human extinction.
@@ -114,9 +121,7 @@ For example, to avoid extinction scenarios, humanity may choose to install some 
 
 But, within this minefield of attractor states, not all of them must be entered into suddenly. Greaves and Macaskill again:
 
-> Only slightly more subtly [than extinction], the existence of humanity is also a persistent state: while we face significant risks of premature extinction … humanity’s expected persistence is vast.
-
-If humanity spreads across the galaxy — creating civilisations that are disparate and diverse — the chances of our survival in a given millenium may well spring back to ~100%.
+If humanity spreads across the galaxy — creating civilisations that are disparate and diverse — the chances of our survival in a given millenium may well spring back to ~100%. This, the secured persistence humanity, is its own (more subtle) attractor state.
 
 ## Getting the transition right
 To me, it seems like we're in a position where we can make choices that are genuinely good for the long-run future; reducing the chance of a civilisational catastrophe, at a minimum, seems like an obviously good bet. Beyond that, there are many other attractor states we could increase the chances of — and doing so would be incredibly consequential.
@@ -128,7 +133,7 @@ Because of this, I think the 21~~~<sup>st</sup>~~~ century will be unmatched in 
 From [This Can't Go On](https://www.cold-takes.com/this-cant-go-on).
 @@
 
-As we consider how the future should look, we should be wary of most lock-in scenarios. This is obvious when most of the visible attractor states look really bad, but I also think it's unwise to get locked into any path (even if they look good). It may well be our last chance to define the future, but let's prioritise stewardship over legacy building. I'll explain my full reasoning for that in a future post but, for now, I want to tell you [why this thesis supports the simulation hypothesis](https://finnhambly.com/blog/alreadydigital), despite how silly that sounds.
+As we consider how the future should look, we should be wary of most lock-in scenarios. This is obvious when most of the visible attractor states look really bad, but I also think it's unwise to get locked into any path (even if they look good). It may well be our last chance to define the future, but let's be stewards of humanity's existence rather than legacy builders. I'll explain my full reasoning for that in a future post but, for now, I want to tell you [why this thesis supports the simulation hypothesis](https://finnhambly.com/blog/alreadydigital), despite how silly that sounds.
 
 @@acknowledgements
     I'd be very grateful to receive any comments you have on this post! You can submit feedback via [this Google Form](https://forms.gle/Wvmgsu872R8E5L9R9).
