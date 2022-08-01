@@ -78,7 +78,7 @@ So why would anyone expend their resources to simulate a universe like ours? May
 Because of that, the fact that this period of time looks particularly important, due to the highly consequential decisions we'll be making, is a pretty strong sim sign.
 
 ### Anthropic reasoning all the way up
-If simulations successfully help you protect yourself, you could go even further and claim that *exactly this type of scenario* is going to be experienced in abundance. If the simulations are recursive (i.e. there are simulations within the simulations), the most common decisions about what to simulate are going to be made within those that manage to survive. So the simulated civilisations with self-preserving tendencies are going to account for a much larger share of the sims.
+If simulations successfully help you protect yourself, you could go even further and claim that simulations of *exactly this type of scenario* are going to be generated in abundance. If the simulations are recursive (i.e. there are simulations within the simulations), the most common decisions about what to simulate are going to be made by sims that manage to survive. So the sim civilisations with self-preserving tendencies are going to account for a much larger share of sims.
 
 The claim that we live in the most important century seems immediately dubious to many on its first mention. Statistically, with a business-as-usual outlook, it seems wrong. We also might be biased in our assessment: we may want it to be true, even if it's just for our own egos. If our century is important, then *we* can be important too.
 
