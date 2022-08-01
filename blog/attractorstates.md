@@ -29,13 +29,13 @@ Designating a single era as the most decisive is tricky, of course, but focusing
 <iframe src="https://ourworldindata.org/grapher/global-energy-substitution?country=~OWID_WRL" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 ~~~
 
-This is easily justified, since the value accrued from 1 to n can just be attributed to those who went from 0 to 1 in the first place. But that logic leads you to the trivial conclusion that no era is particularly important, as it fully depends on the shifts that came before it (from human evolution, to the emergence of life, to the birth of the universe). Everything we do is (1) defined by the past and (2) defines the future; this is quite normal.
+This is easily justified since the value accrued from 1 to n can just be attributed to those who went from 0 to 1 in the first place. But that logic leads you to the trivial conclusion that no era is particularly important, as it fully depends on the shifts that came before it (from human evolution, to the emergence of life, to the birth of the universe). Everything we do is (1) defined by the past and (2) defines the future; this is quite normal.
 
 ### Importance ≈ expected impact - the counterfactual
 
-But I don't think 0 &rarr; 1 events are impressive just because they are the start of something big. They're impressive because the value of their counterfactuals — the circumstances in which the event didn't take place — would have been *predictably different*. While many unprecedented events seem inevitable in retrospect, their timing and expected impact is not predetermined. 
+But I don't think 0 &rarr; 1 events are impressive just because they are the start of something big. They're impressive because the value of their counterfactuals — the circumstances in which the event didn't take place — would have been *predictably different*. While many unprecedented events seem inevitable in retrospect, their timing and expected impact are not predetermined. 
 
-For example, the smallpox vaccine was created in 1798, but the virus remained widespread for the next century-and-a-half, with 50 million cases occurring each year in the early 1950s. In 1958, [Viktor Zhdanov](https://80000hours.org/2012/02/in-praise-of-viktor-zhdanov/) initiated a campaign to eradicate smallpox; he convinced the World Health Assembly to undertake this challenge, when no disease had ever been eradicated before.  A few years before this, [the Assembly had rejected a similar proposal](https://www.worksinprogress.co/the-story-of-viktor-zhdanov/) because it was (understandably) deemed too unrealistic. But, thanks to Zhdanov's determination, the Assembly took on the challenge.
+For example, the smallpox vaccine was created in 1798, but the virus remained widespread for the next century-and-a-half, with 50 million cases occurring each year in the early 1950s. In 1958, [Viktor Zhdanov](https://80000hours.org/2012/02/in-praise-of-viktor-zhdanov/) initiated a campaign to eradicate smallpox; he convinced the World Health Assembly to undertake this challenge when no disease had ever been eradicated before.  A few years before this, [the Assembly had rejected a similar proposal](https://www.worksinprogress.co/the-story-of-viktor-zhdanov/) because it was (understandably) deemed too unrealistic. But, thanks to Zhdanov's determination, the Assembly took on the challenge.
 
 @@marginnote
     Seriously, take 3 minutes to read [500 Million, But Not A Single One More](https://forum.effectivealtruism.org/posts/jk7A3NMdbxp65kcJJ/500-million-but-not-a-single-one-more).
@@ -43,7 +43,7 @@ For example, the smallpox vaccine was created in 1798, but the virus remained wi
 
 By 1979, the programme had succeeded. The virus that killed 500 million people [was gone](https://forum.effectivealtruism.org/posts/jk7A3NMdbxp65kcJJ/500-million-but-not-a-single-one-more). 
 
-How long would it have been before someone had both the expertise and the initiative to successfully set a campaign like that in motion? And with [300 million dying in the 20~~~<sup>th</sup>~~~ century alone](https://ourworldindata.org/smallpox#how-many-died-of-smallpox), any and all delays are devastatingly tragic. 
+How long would it have been before someone had both the expertise and the initiative to successfully set a campaign like that in motion? And with [300 million dying in the 20~~~<sup>th</sup>~~~ century alone](https://ourworldindata.org/smallpox#how-many-died-of-smallpox), all delays are devastatingly tragic. 
 
 In contrast, if the [organisms at the start](https://en.wikipedia.org/wiki/Last_universal_common_ancestor) of our evolutionary lineage had never formed, life (in all likelihood) would have evolved from some other H$_2$-dependent autotrophs (or whatever) within the next billion years, since the conditions for such an event to occur were set up. Slight deviations in the origins of life change everything, but not in any predictable way. There's little *ex ante* reason why any one starting point would be better or worse than another. Of course, *ex post*, I'm glad things went how they did (otherwise we wouldn't be here), but the value of future evolved species cannot be straightforwardly inferred from the composition of the chemical soups that microorganisms self-assembled in.
 
@@ -73,9 +73,9 @@ In other words, this transition is different because it won't just induce change
 -- Arnold Toynby
 @@
 
-An attractor state is a condition where, once you enter it, you cannot escape — like a black hole. As Greaves and MacAskill [put it](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism-2/): "The non-existence of humanity is a persistent state par excellence. To state the obvious: the chances of humanity re-evolving, if we go extinct, are miniscule".
+An attractor state is a condition where, once you enter it, you cannot escape — like a black hole. As Greaves and MacAskill [put it](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism-2/): "The non-existence of humanity is a persistent state par excellence. To state the obvious: the chances of humanity re-evolving, if we go extinct, are minuscule".
 
-@@img-small
+@@img-med
 ![](/assets/attractorstate.png)
 @@
 
@@ -88,29 +88,29 @@ An attractor state is a condition where, once you enter it, you cannot escape �
 Take a look at these forecasts on how likely it is that various global catastrophes kill over 95% of the human population (and see [this notebook](https://www.metaculus.com/notebooks/8736/a-global-catastrophe-this-century/) for background information and the probabilities of each of these catastrophes occurring this century):
 
 ~~~
-<iframe src="https://www.metaculus.com/questions/embed/2514/?theme=default" width="550" height="260"></iframe>
+<iframe src="https://www.metaculus.com/questions/embed/2514/?theme=default" width="500" height="260"></iframe>
 
-<iframe src="https://www.metaculus.com/questions/embed/2513/?theme=default" width="550" height="260"></iframe>
+<iframe src="https://www.metaculus.com/questions/embed/2513/?theme=default" width="500" height="260"></iframe>
 
-<iframe src="https://www.metaculus.com/questions/embed/9051/?theme=default" width="550" height="260"></iframe>
+<iframe src="https://www.metaculus.com/questions/embed/9051/?theme=default" width="500" height="260"></iframe>
 
-<iframe src="https://www.metaculus.com/questions/embed/7795/?theme=default" width="550" height="260"></iframe>
+<iframe src="https://www.metaculus.com/questions/embed/7795/?theme=default" width="500" height="260"></iframe>
 ~~~
 
 Being able to wipe ourselves out this easily is an incredibly new phenomenon; the concept of humanity being rendered extinct by their own discoveries became salient last century with the invention and proliferation of nuclear weapons. But, if a nuclear catastrophe kills 10% of the population (which is deemed to be roughly as likely as an AI, biological, or 'other' catastrophe doing the same), the likelihood that it kills 95% of the population is significantly lower:
 
 ~~~
-<iframe src="https://www.metaculus.com/questions/embed/1585/?theme=default" width="550" height="260"></iframe>
+<iframe src="https://www.metaculus.com/questions/embed/1585/?theme=default" width="500" height="260"></iframe>
 ~~~
 
-All of these probabilities are far too high, and the severity of these risks much worse than most people account for. This scenario makes our century uniquely dangerous and, since there's still so much we can do to reduce them, uniquely important.
+All of these probabilities are far too high, and the severity of these risks is much worse than most people account for. This scenario makes our century uniquely dangerous and, since there's still so much we can do to reduce them, uniquely important.
 
 #### Non-extinction scenarios
 In The Precipice, Toby Ord uses the term 'existential catastrophe' to describe humanity “getting locked into a bad set of futures". Among these bad futures, Ord includes an ‘unrecoverable dystopia’: “a world with civilization intact, but locked into a terrible form, with little or no value”. This would be deemed to be an ‘attractor state’ of significantly lower expected value than alternative possible futures, alongside human extinction.
 
-So if we succeed at avoiding extinction, things could still go horribly wrong. Karnofsky and Ord articulate how and why unrecoverable dystopias may arise, but the number of paths to such an attractor state seem more numerous than you'd initially guess.
+So if we succeed at avoiding extinction, things could still go horribly wrong. Karnofsky and Ord articulate how and why unrecoverable dystopias may arise, but the number of paths to such an attractor state seems more numerous than you'd initially guess.
 
-For example, in order to avoid extinction scenarios, humanity may choose to install some stable, global, safety-enhancing regime, as described by Nick Bostrom in [the vulnerable world hypothesis](https://nickbostrom.com/papers/vulnerable.pdf). This flavour of attractor state doesn't give me much hope, sadly. For something as totalizing and irreversible as locking in a world government, I would want infeasible levels of certainty about how good it will be.
+For example, to avoid extinction scenarios, humanity may choose to install some stable, global, safety-enhancing regime, as described by Nick Bostrom in [the vulnerable world hypothesis](https://nickbostrom.com/papers/vulnerable.pdf). This flavour of attractor state doesn't give me much hope, sadly. For something as totalizing and irreversible as locking in a world government, I would want infeasible levels of certainty about how good it will be.
 
 But, within this minefield of attractor states, not all of them must be entered into suddenly. Greaves and Macaskill again:
 
@@ -121,14 +121,14 @@ If humanity spreads across the galaxy — creating civilisations that are dispar
 ## Getting the transition right
 To me, it seems like we're in a position where we can make choices that are genuinely good for the long-run future; reducing the chance of a civilisational catastrophe, at a minimum, seems like an obviously good bet. Beyond that, there are many other attractor states we could increase the chances of — and doing so would be incredibly consequential.
 
-Because of this, I think the 21~~~<sup>st</sup>~~~ century will be unmatched in terms of **the variance in the expected impact of our actions**, because we can knowingly alter the probability distribution of humanity's future trajectories within this incredibly large range:
+Because of this, I think the 21~~~<sup>st</sup>~~~ century will be unmatched in terms of **the variance in the expected impact of our actions** since we can knowingly alter the probability distribution of humanity's future trajectories within this incredibly large range:
 
 ![](/assets/this-cant-go-on.png)
 @@caption
 From [This Can't Go On](https://www.cold-takes.com/this-cant-go-on).
 @@
 
-As we consider how the future should look, we should be wary of most lock-in scenarios. This is obvious when most of the visible attractor states look really bad, but I also think it's unwise to get locked into any path (even if they look good). It may well be our last chance to define the future, but let's prioritise stewardship over legacy building. I'll explain my full reasoning for that in a future post but, for now, I want to tell you about [why this thesis supports the simulation hypothesis](https://finnhambly.com/blog/alreadydigital) [ETA: ??], despite how silly that sounds.
+As we consider how the future should look, we should be wary of most lock-in scenarios. This is obvious when most of the visible attractor states look really bad, but I also think it's unwise to get locked into any path (even if they look good). It may well be our last chance to define the future, but let's prioritise stewardship over legacy building. I'll explain my full reasoning for that in a future post but, for now, I want to tell you [why this thesis supports the simulation hypothesis](https://finnhambly.com/blog/alreadydigital) [ETA: ??], despite how silly that sounds.
 
 @@acknowledgements
     I'd be very grateful to receive any comments you have on this post! You can submit feedback via [this Google Form](https://forms.gle/Wvmgsu872R8E5L9R9).
