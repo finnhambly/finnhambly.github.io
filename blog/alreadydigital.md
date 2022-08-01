@@ -53,7 +53,7 @@ The simulation hypothesis is simply the hypothesis that we are living in a simul
 >---
 >4. So: We are probably sims.
 
-It's reasonable to suppose that there would be things that stop nonsim populations from creating sims. For instance, they might choose to not create sims that are conscious, perhaps out of moral concerns. We might want to reduce the probability of being simulated due to that, but it seems unlikely that *all* simulators would avoid spinning up consciousness.
+It's reasonable to suppose that there would be things that stop nonsim populations from creating sims. For instance, they might choose to not create sims that are conscious, perhaps out of moral concerns. We might want to reduce the probability of being simulated due to that, but it seems unlikely that *all* capable nonsims would avoid spinning up consciousness.
 
 Objections like these might prevent the existence of simulated people, but Chalmers packages this up neatly into the following conclusion:
 
