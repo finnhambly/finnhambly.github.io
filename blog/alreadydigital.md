@@ -53,7 +53,7 @@ The simulation hypothesis is simply the hypothesis that we are living in a simul
 >---
 >4. So: We are probably sims.
 
-It's reasonable to suppose that there would be things that stop nonsim populations from creating sims. For instance, they might choose to not create sims that are conscious, perhaps out of moral concerns. We might want to reduce the probability of being simulated due to that, but it seems unlikely that *all* capable nonsims would avoid spinning up consciousness.
+It's reasonable to suppose that there would be things that stop nonsim populations from creating sims. For instance, they might choose to not create sims that are conscious, perhaps out of moral concerns. We might want to reduce the probability of being simulated due to that, but it seems unlikely that *all* capable nonsims would avoid spinning up consciousnesses.
 
 Objections like these might prevent the existence of simulated people, but Chalmers packages this up neatly into the following conclusion:
 
@@ -71,9 +71,9 @@ Some more from Chalmers:
 
 Why would our simulators be simulating us? My guess is that any simulator is likely to simulate a population fairly similar to their own. From our own observations, we can see that humans — like our hypothetical simulator — find value in running simulations. Additionally, whether it's for scientific purposes or a video game, our simulations are designed to be similar to our universe in some way. The less a hypothetical simulation has in common with its simulator's universe, the less likely it will be.
 
-(Some aspects of the simulation may be different to the world above by necessity. For instance, we may have had our simulation capabilities restricted or delayed, in order to conserve computational resources.)
+(Some aspects of the simulation may be different to the world above by necessity. For instance, we may have had our simulation capabilities restricted or delayed, in order to conserve our simulator's computational resources.)
 
-So why would we run very large-scale, computationally-heavy simulations? Maybe it'll be for some relatively trivial matter, like finding out the universal, long-run effects of a new kind of detergent. However, it's reasonable to expect the quantity of computational resources (and hence number of simulations) to scale with the importance of the subject.
+So why would anyone expend their resources to simulate a universe like ours? Maybe it'll be for some relatively trivial matter, like finding out the universal, long-run effects of a new kind of detergent. However, it's reasonable to expect the quantity of computational resources (and hence number of simulations) to scale with the importance of the subject.
 
 Because of that, the fact that this period of time looks particularly important, due to the highly consequential decisions we'll be making, is a pretty strong sim sign.
 
