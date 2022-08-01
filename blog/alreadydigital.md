@@ -1,10 +1,10 @@
 +++
 title = "What if we're already digital?"
-published = "2022-07-31"
+published = "2022-08-01"
 rss = "If you think we live in a pivotal time, maybe you should update your metaphysical beliefs."
 image = "https://finnhambly.com/assets/simulationart.png"
 +++
-@def rss_pubdate = Date(2022, 07, 31)
+@def rss_pubdate = Date(2022, 08, 01)
 
 # What if we're already digital?
 *TL;DR: P(simulation|important) > P(simulation|¬important)*
