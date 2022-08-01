@@ -88,19 +88,19 @@ An attractor state is a condition where, once you enter it, you cannot escape â€
 Take a look at these forecasts on how likely it is that various global catastrophes kill over 95% of the human population (and see [this notebook](https://www.metaculus.com/notebooks/8736/a-global-catastrophe-this-century/) for background information and the probabilities of each of these catastrophes occurring this century):
 
 ~~~
-<iframe src="https://www.metaculus.com/questions/embed/2514/?theme=default" width="500" height="260"></iframe>
+<iframe src="https://www.metaculus.com/questions/embed/2514/?theme=default" width="100%" height="260"></iframe>
 
-<iframe src="https://www.metaculus.com/questions/embed/2513/?theme=default" width="500" height="260"></iframe>
+<iframe src="https://www.metaculus.com/questions/embed/2513/?theme=default" width="100%" height="260"></iframe>
 
-<iframe src="https://www.metaculus.com/questions/embed/9051/?theme=default" width="500" height="260"></iframe>
+<iframe src="https://www.metaculus.com/questions/embed/9051/?theme=default" width="100%" height="260"></iframe>
 
-<iframe src="https://www.metaculus.com/questions/embed/7795/?theme=default" width="500" height="260"></iframe>
+<iframe src="https://www.metaculus.com/questions/embed/7795/?theme=default" width="100%" height="260"></iframe>
 ~~~
 
 Being able to wipe ourselves out this easily is an incredibly new phenomenon; the concept of humanity being rendered extinct by their own discoveries became salient last century with the invention and proliferation of nuclear weapons. But, if a nuclear catastrophe kills 10% of the population (which is deemed to be roughly as likely as an AI, biological, or 'other' catastrophe doing the same), the likelihood that it kills 95% of the population is significantly lower:
 
 ~~~
-<iframe src="https://www.metaculus.com/questions/embed/1585/?theme=default" width="500" height="260"></iframe>
+<iframe src="https://www.metaculus.com/questions/embed/1585/?theme=default" width="100%" height="260"></iframe>
 ~~~
 
 All of these probabilities are far too high, and the severity of these risks is much worse than most people account for. This scenario makes our century uniquely dangerous and, since there's still so much we can do to reduce them, uniquely important.
