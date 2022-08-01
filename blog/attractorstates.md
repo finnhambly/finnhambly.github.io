@@ -128,7 +128,7 @@ Because of this, I think the 21~~~<sup>st</sup>~~~ century will be unmatched in 
 From [This Can't Go On](https://www.cold-takes.com/this-cant-go-on).
 @@
 
-As we consider how the future should look, we should be wary of most lock-in scenarios. This is obvious when most of the visible attractor states look really bad, but I also think it's unwise to get locked into any path (even if they look good). It may well be our last chance to define the future, but let's prioritise stewardship over legacy building. I'll explain my full reasoning for that in a future post but, for now, I want to tell you [why this thesis supports the simulation hypothesis](https://finnhambly.com/blog/alreadydigital) [ETA: ??], despite how silly that sounds.
+As we consider how the future should look, we should be wary of most lock-in scenarios. This is obvious when most of the visible attractor states look really bad, but I also think it's unwise to get locked into any path (even if they look good). It may well be our last chance to define the future, but let's prioritise stewardship over legacy building. I'll explain my full reasoning for that in a future post but, for now, I want to tell you [why this thesis supports the simulation hypothesis](https://finnhambly.com/blog/alreadydigital), despite how silly that sounds.
 
 @@acknowledgements
     I'd be very grateful to receive any comments you have on this post! You can submit feedback via [this Google Form](https://forms.gle/Wvmgsu872R8E5L9R9).

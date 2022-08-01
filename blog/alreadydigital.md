@@ -126,3 +126,7 @@ I'm inclined to name this one the 'it-from-bit hypothesis'.
 In [All Possible Views About Humanity's Future Are Wild](https://www.cold-takes.com/all-possible-views-about-humanitys-future-are-wild/), Karnofsky cites the simulation hypothesis as a reason to be sceptical that humanity never spreads throughout the galaxy. However, I don't think being in a simulation necessarily implies we should take his [call to vigilance](https://www.cold-takes.com/call-to-vigilance/) less seriously.
 
 Granted, our simulators might terminate us as soon as we navigate through this time of perils. But even then, while our future might end up being small, the universe(s) above us would be even more vast than our own. If we survive these challenges in a way that sets humanity up for a wonderful, valuable future, our approach may be adopted by those observing us. May our best values propagate upwards!
+
+@@acknowledgements
+    I'd be very grateful to receive any comments you have on this post! You can submit feedback via [this Google Form](https://forms.gle/HtimJH8Z8cE7UJSb8).
+@@
