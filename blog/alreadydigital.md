@@ -61,6 +61,10 @@ Objections like these might prevent the existence of simulated people, but Chalm
 
 > we should be highly confident that either (1) we are sims, or (2) humanlike sims are impossible, or (3) humanlike sims are possible but few humanlike nonsims will create them.
 
+@@marginnote
+If human-like sims are impossible (scenario 2) 50% of the time, that leaves a 50% chance that they are possible. In these remaining situations, if there's 50% chance that nonsims avoid creating sims, there's a 25% chance that ~all conscious beings are sims.
+@@
+
 Chalmers thinks (as do I) that (2) and (3) are unlikely; there's no obvious reason why human-like sims aren't possible, and the incentives to create them are [so strong](https://www.cold-takes.com/the-duplicator/). So what's the probability that we're in a simulation? I don't know, but if we're generous to the sceptics and say that (2) and (3) each have a 50% chance of being true, P(simulation) = 25%.
 
 ## Why would we be simulated? P(important | simulation)?
