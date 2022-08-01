@@ -17,12 +17,12 @@ image = "https://finnhambly.com/assets/simulationart.png"
 ## Is this century important?
 This month, Effective Ideas are offering mini prizes for blogs that discuss Holden Karnofsky's series on [The Most Important Century](https://www.cold-takes.com/most-important-century/) — a set of blog posts that make a sober, clear-headed case that we live in an extraordinary era that will define the trajectory of human civilisation more than any other. Outlandish claims that have significant implications, such as those that Karnfosky discusses, are often dismissed simply because they are esoteric — but some ought to be taken seriously.
 
-If it's true, it does seem to be quite a coincidence that we happen to be alive in the most important century! I wanted to discuss the implications of observing something quite so coincidental, but I realised that there are nuances to my views on what qualifies as 'important'. It seems like every previous century has entirely determined the state of the future? To try and clarify my thoughts here, I wrote my version of the 'most important century thesis' in [my last blog post](/blog/attractorstates), explaining why our choices might alter humanity's future trajectory in a way that no previous (or future) century could.
+If it's true, it does seem to be quite a coincidence that we happen to be alive in the most important century! I wanted to discuss the implications of observing something quite so coincidental, but I realised that there are nuances to my views on what qualifies as 'important'. It seems like every previous century has entirely determined the state of the future? To try and clarify my thoughts here, I wrote my version of the 'most important century' thesis in [my last blog post](/blog/attractorstates), explaining why our choices might alter humanity's future trajectory in a way that no previous (or future) century could.
 
 One of the most significant factors that makes this century seem so uniquely important is the possibility of digital minds. If you need convincing on the feasibility of this or want to know why their creation would be so consequential, the best resource is Karnofsky's post [Digital People Would Be An Even Bigger Deal](https://www.cold-takes.com/how-digital-people-could-change-the-world/). The importance of this century doesn't just rest on digital people being created, but observing even the *possibility* of conscious digital people is notable. If it's possible to simulate conscious beings, then *we* could be simulated.
 
 @@marginnote
-While we may create digital people, the simulation we're might be in wouldn't necessarily be *digital* — our existence may depend on 'reals', qubits, or something unfathomable to us, rather than bits.
+While we may create digital people, the simulation we're in wouldn't necessarily be *digital* — our existence may depend on 'reals', qubits, or something unfathomable to us, rather than bits.
 @@
 
 ## P(simulation)
