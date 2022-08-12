@@ -67,7 +67,7 @@ You could imagine a (particularly visionary) person saying that about the indust
 
 > The development of the printing press resulted in wars, revolutions, religions, political movements, and further scientific and technological advances which have completely remade the world. In the simmer scenario [0.2% growth a year for 25,000 years], a technology as fundamental as that is being developed every 500 years for the remainder of our time in the galaxy. In this scenario, no century ends up having extraordinarily important technological changes in the grand scheme of things.
 
-But maybe, if the technologies were more transformative, and the transition more discontinuous, the choices made by users of the first printing presses would have taken away any chance for human civilisation to deviate from its subsequent trajectory. Karnofsky claims that this may be the case now:
+But maybe, if the technologies were more transformative and the transition more discontinuous, the users of the first printing presses would have entirely determined humanity's subsequent trajectory. Karnofsky claims that this may be the case now:
 > During the century we’re in right now, we will develop technologies that cause us to transition to a state in which humans as we know them are no longer the main force in world events. This is our last chance to shape how that transition happens.
 
 In other words, this transition is different because it won't just induce change, but may eternally restrict humanity's capacity for it. This is a strong claim but, if the future holds a large number of digital people, it is hard to dispute [Karnofsky's reasoning](https://www.cold-takes.com/how-digital-people-could-change-the-world/). Just a couple of transformative technologies (artificial intelligence and digital consciousness) could lead to human extinction or a permanent, galaxy-wide, dystopian regime — both examples of 'attractor states'. 
@@ -113,7 +113,7 @@ Being able to wipe ourselves out this easily is an incredibly new phenomenon; th
 All of these probabilities are unacceptably high, and the severity of these risks is much worse than most people account for. This scenario makes our century uniquely dangerous and, since there's still so much we can do to reduce them, uniquely important.
 
 #### Non-extinction scenarios
-In The Precipice, Toby Ord uses the term 'existential catastrophe' to describe humanity “getting locked into a bad set of futures". Among these bad futures, Ord includes an ‘unrecoverable dystopia’: “a world with civilization intact, but locked into a terrible form, with little or no value”. This would be deemed to be an ‘attractor state’ of significantly lower expected value than alternative possible futures, alongside human extinction.
+In The Precipice, Toby Ord uses the term 'existential catastrophe' to describe humanity "getting locked into a bad set of futures". Among these bad futures, Ord includes an ‘unrecoverable dystopia’: “a world with civilization intact, but locked into a terrible form, with little or no value”. This would be deemed to be an ‘attractor state’ of significantly lower expected value than alternative possible futures, alongside human extinction.
 
 So if we succeed at avoiding extinction, things could still go horribly wrong. Karnofsky and Ord articulate how and why unrecoverable dystopias may arise, but the number of paths to such an attractor state seems more numerous than you'd initially guess.
 
