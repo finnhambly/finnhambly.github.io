@@ -40,13 +40,13 @@ This is easily justified since the value accrued from 1 to n can just be attribu
 
 But I don't think 0 &rarr; 1 events are impressive just because they are the start of something big. They're impressive because the value of their counterfactuals — the circumstances in which the event didn't take place — would have been *predictably different*. While many unprecedented events seem inevitable in retrospect, their timing and expected impact are not predetermined. 
 
-For example, the smallpox vaccine was created in 1798, but the virus remained widespread for the next century-and-a-half, with 50 million cases occurring each year in the early 1950s. In 1958, [Viktor Zhdanov](https://80000hours.org/2012/02/in-praise-of-viktor-zhdanov/) initiated a campaign to eradicate smallpox; he convinced the World Health Assembly to undertake this challenge when no disease had ever been eradicated before.  A few years before this, [the Assembly had rejected a similar proposal](https://www.worksinprogress.co/the-story-of-viktor-zhdanov/) because it was (understandably) deemed too unrealistic. But, thanks to Zhdanov's determination, the Assembly took on the challenge.
+For example, the smallpox vaccine was created in 1798, but the virus remained widespread for the next century-and-a-half, with 50 million cases occurring each year in the early 1950s. In 1958, [Viktor Zhdanov](https://80000hours.org/2012/02/in-praise-of-viktor-zhdanov/) initiated a campaign to eradicate smallpox; he convinced the World Health Assembly to undertake this challenge when no disease had ever been eradicated before.  A few years before this, [the Assembly had rejected a similar proposal](https://www.worksinprogress.co/the-story-of-viktor-zhdanov/) because it was (understandably) deemed too unrealistic. But thanks to Zhdanov's determination, the Assembly took on the challenge.
 
 @@marginnote
     Seriously, take 3 minutes to read [500 Million, But Not A Single One More](https://forum.effectivealtruism.org/posts/jk7A3NMdbxp65kcJJ/500-million-but-not-a-single-one-more).
 @@
 
-By 1979, the programme had succeeded. The virus that killed 500 million people [was gone](https://forum.effectivealtruism.org/posts/jk7A3NMdbxp65kcJJ/500-million-but-not-a-single-one-more). 
+By 1979 the programme had succeeded. The virus that killed 500 million people [was gone](https://forum.effectivealtruism.org/posts/jk7A3NMdbxp65kcJJ/500-million-but-not-a-single-one-more). 
 
 How long would it have been before someone had both the expertise and the initiative to successfully set a campaign like that in motion? And with [300 million dying in the 20~~~<sup>th</sup>~~~ century alone](https://ourworldindata.org/smallpox#how-many-died-of-smallpox), all delays are devastatingly tragic. 
 
@@ -73,7 +73,7 @@ But maybe, if the technologies were more transformative, and the transition more
 In other words, this transition is different because it won't just induce change, but may eternally restrict humanity's capacity for it. This is a strong claim but, if the future holds a large number of digital people, it is hard to dispute [Karnofsky's reasoning](https://www.cold-takes.com/how-digital-people-could-change-the-world/). Just a couple of transformative technologies (artificial intelligence and digital consciousness) could lead to human extinction or a permanent, galaxy-wide, dystopian regime — both examples of 'attractor states'. 
 
 ### Why it looks different this time: a minefield of attractor states
-> The human race’s prospects of survival were considerably better when we were defenceless against tigers than they are today, when we have become defenceless against ourselves.”
+> The human race’s prospects of survival were considerably better when we were defenceless against tigers than they are today, when we have become defenceless against ourselves.
 @@attribution
 -- Arnold Toynby
 @@
