@@ -62,7 +62,7 @@ I like to think that if more of us assume that others could do something brillia
 But, do our social environments really matter that much?
 
 ## Cute stories about supportive social circles
-You’ll hear tales about well-known geniuses who were criticised and dismissed in their early careers, but that doesn’t mean we should ignore all criticism and plough on, just try and find critics that are encouraging rather than disparaging. In *Collaborative Circles*, Michael P. Farrell starts off by describing the friendship of J. R. R. Tolkien and C. S. Lewis:
+You’ll hear tales about well-known geniuses who were criticised and dismissed in their early careers, but that doesn’t mean we should ignore all criticism and plough on: just try and find critics that are encouraging rather than disparaging. In *Collaborative Circles*, Michael P. Farrell starts off by describing the friendship of J. R. R. Tolkien and C. S. Lewis:
 
 > Nordic epics had enthralled Tolkien when he was a child. His fascination led him to create his own imaginary mythology, and from the time he was eighteen he worked sporadically at casting his stories of elves and wizards into an epic poem. Only once had he allowed anyone to see this work. In 1925 he showed it to an old mentor, who advised him to drop it. The rebuff reinforced his decision to keep the work secret. But after discovering that Lewis shared his interest in "Northernness" and epic poetry, a few days after the late night conversation, Tolkien gave Lewis one of the unfinished poems to read.
 
@@ -110,19 +110,21 @@ I’m quite struck by their persistence: the core group formed in the early 1860
 ![Impressionism, Sunrise](/assets/monet-sunrise.jpg)
 @@
 @@caption
-Claude Monet’s Impressionism, Sunrise (1872). You’d think you’d know you were good if you made this, but when neither the public nor the art establishment approve, you better have supportive friends!
+Claude Monet’s Impressionism, Sunrise (1872). You’d think you’d know you were good if you made this, but when neither the public nor the art establishment approve, you better have supportive friends.
 @@
 
 So talking to people seems good! I bet you’re glad that you’re on this intellectual journey with me.
 
-More seriously, I don’t think we should beat ourselves up over the fact we sometimes need some validation before we act on things. But, if we find ourselves not being encouraged by our environments, what do we do about that?
+More seriously, I don’t think we should beat ourselves up over the fact we sometimes need some validation before we act on things. 
+
+But what if we find ourselves in unencouraging environments? What do we do about that?
 
 ## Managing how we're affected by our environments
 Over the past couple of years, I’ve had a number of research ideas, which I’ve since found out are Certifiably Good and Cool, that I didn’t act upon straight away because my immediate contacts didn’t seem nearly as excited. In retrospect, I think I responded too strongly to people’s default, under-considered responses.
 
 One response is to simply care less about validation and approval. Most of us sense that people will judge us for trying stuff out and making dumb things, but I expect it's our high expectations of ourselves that's really holding us back. 
 
-So care less. Give yourself [slack](https://thezvi.wordpress.com/2017/09/30/slack/) so that it's easy to care less. Use your freedom to [exploit your interest while it lasts](https://devjac.dev/posts/2019-12-19-exploit-your-interest.html). Keep the stakes low and [do a side project](https://www.samstack.io/p/the-case-for-low-cost-ambition), making sure it’s [a project of your own](http://www.paulgraham.com/own.html). It’s still all upside!
+So care less. Give yourself [slack](https://thezvi.wordpress.com/2017/09/30/slack/) so that it's easier to care less. Use your freedom to [exploit your interest while it lasts](https://devjac.dev/posts/2019-12-19-exploit-your-interest.html). Keep the stakes low and [do a side project](https://www.samstack.io/p/the-case-for-low-cost-ambition), making sure it’s [a project of your own](http://www.paulgraham.com/own.html). It’s still all upside!
 
 In practice, it can be quite hard to give up our fears and work directly towards our goals, especially when there are non-imagined constraints. Perhaps you need to justify buying expensive equipment, maybe you need to make a decision that precludes other options (like a stable and obviously-impactful job), or you might know that any attempt you make will soon be derailed by crippling self-doubt.
 
@@ -151,7 +153,7 @@ Now, when I try to explain my ideas for enabling model-based, conditional foreca
 
 I discovered that random university researchers can definitely be quite cheems-y because of these factors, but they’re relevant in more amenable settings too. Even at effective altruism conferences, where I tend to find people have lots of relevant intellectual context and shared values, I could still feel demoralised because someone didn’t have the time to fully understand what I was talking about. For sufficiently complex and nascent ideas, it can take a while before someone understands and says “yes, and...”
 
-For me, the right people to test my thinking out with are friends I’ve made through EA and, it turns out, longtermist grantmakers. There is nothing quite as agency-inducing as someone else backing you and your ideas financially (but more on that in the future). 
+For me, the right people to test my thinking out with are friends I’ve made through [EA](https://www.effectivealtruism.org) and, it turns out, longtermist grantmakers. There is nothing quite as agency-inducing as someone else backing you and your ideas financially (but more on that in the future). 
 
 However, if the experiences of The Inklings and the French Impressionists are anything to go off of, fostering encouraging environments is more important than maximising our own sense of agency directly — we’ll probably get more out of it, too.
 
