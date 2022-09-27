@@ -133,6 +133,4 @@ In a bullet point in [All Possible Views About Humanity's Future Are Wild](https
 
 Granted, our simulators might terminate us as soon as we navigate through this time of perils. But even then, while our future might be smaller, the universe(s) above us would be even more vast than our own. If we survive these challenges in a way that sets humanity up for a wonderful, valuable future, our approach may be adopted by those observing us. May our best values propagate upwards!
 
-@@acknowledgements
-    I'd be very grateful to receive any comments you have on this post! You can submit feedback via [this Google Form](https://forms.gle/HtimJH8Z8cE7UJSb8).
-@@
+{{ addcomments }}

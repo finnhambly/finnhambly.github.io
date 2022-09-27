@@ -1,6 +1,24 @@
 using Base.Meta: isexpr
 using Dates
 
+"""
+    {{ addcomments }}
+
+Add a comment widget, managed by utterances <https://utteranc.es>.
+"""
+function hfun_addcomments()
+    html_str = """
+    <script src="https://utteranc.es/client.js"
+        repo="finnhambly/finnhambly.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+    </script>
+    """
+    return html_str
+end
+
 function hfun_bar(vname)
   val = Meta.parse(vname[1])
   return round(sqrt(val), digits=2)
