@@ -1,3 +1,3 @@
-# Some photos from this year 🙂
+# Pics
 
 {{all_images}}
