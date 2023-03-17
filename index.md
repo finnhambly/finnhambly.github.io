@@ -3,4 +3,8 @@
 
 # Finn Hambly
 
-{{blogposts}}
+*Homepage, vacant space
+\\
+Whispers echo, seeking home
+\\
+Stories yet to grace*
